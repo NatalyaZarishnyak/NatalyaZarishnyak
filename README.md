@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NatalyaZarishnyak
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...machine learning and neural networks
 - 🌱 I’m teaching now
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...with various people on research projectsRuss
+- 📫 How to reach me ...Russia, the city of Orenburg
 
 <!---
 NatalyaZarishnyak/NatalyaZarishnyak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
